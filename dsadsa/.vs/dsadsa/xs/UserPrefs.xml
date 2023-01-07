@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{D70EBF37-A6FB-46E2-A924-B6D4EC72D083}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dsadsa/Program.cs">
+    <Files>
+      <File FileName="dsadsa/Program.cs" Line="6" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dsadsa" expanded="True" selected="True">
+            <Node name="dsadsa" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.dsadsa FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
